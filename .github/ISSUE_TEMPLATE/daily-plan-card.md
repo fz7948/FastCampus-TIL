@@ -1,7 +1,7 @@
 ---
 name: daily plan card
 about: 하루 일과를 계획하고 목표를 적는 카드
-title: "[211000] 오우영 계획"
+title: "[211000] "
 labels: ''
 assignees: ''
 
@@ -13,8 +13,9 @@ assignees: ''
  * `16시 ~ 18시`
  * `19시 ~ 23시` 
  
- ### TODO
+### TODO
  * [ ]  
  * [ ]  
  * [ ]  
- * [ ]
+
+### Comment
